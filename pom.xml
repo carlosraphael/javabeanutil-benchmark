@@ -20,7 +20,7 @@
         <dependency>
             <groupId>io.vavr</groupId>
             <artifactId>vavr</artifactId>
-            <version>RELEASE</version>
+            <version>0.10.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
